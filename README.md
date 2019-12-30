@@ -8,7 +8,7 @@ The Gazebo simulation of the Panda arm is taken from [this repo](https://github.
 
 Example of a the execution of a cartesian path: 
 
-![Cartesian](img/example_cartesian.gif)
+![Cartesian](img/example_cartesian_1.gif)
 ___
 
 ## Usage
